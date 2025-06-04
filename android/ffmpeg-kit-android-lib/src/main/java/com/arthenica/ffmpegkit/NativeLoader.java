@@ -21,7 +21,7 @@ package com.arthenica.ffmpegkit;
 
 import android.os.Build;
 
-import com.arthenica.smartexception.java.Exceptions;
+import com.arthenica.smartexception.java9.Exceptions;
 
 import java.text.SimpleDateFormat;
 import java.util.Collections;

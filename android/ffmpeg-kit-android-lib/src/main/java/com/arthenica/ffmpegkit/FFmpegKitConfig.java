@@ -29,7 +29,7 @@ import android.os.ParcelFileDescriptor;
 import android.provider.DocumentsContract;
 import android.util.SparseArray;
 
-import com.arthenica.smartexception.java.Exceptions;
+import com.arthenica.smartexception.java9.Exceptions;
 
 import java.io.File;
 import java.io.FileOutputStream;
